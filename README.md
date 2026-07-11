@@ -1,1 +1,12 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
+<!---LeetCode Topics End-->

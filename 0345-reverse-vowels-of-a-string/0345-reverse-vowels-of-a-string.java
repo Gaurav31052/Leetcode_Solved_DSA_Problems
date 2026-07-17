@@ -2,7 +2,7 @@ class Solution {
     public String reverseVowels(String s) {
 
         Stack<Character> st = new Stack<>();
-        String res = "";
+        StringBuilder res = new StringBuilder(s);
 
         for(int i=0;i<s.length();i++){
             if("AEIOUaeiou".indexOf(s.charAt(i)) != -1){
@@ -12,13 +12,11 @@ class Solution {
 
          for(int i=0;i<s.length();i++){
             if("AEIOUaeiou".indexOf(s.charAt(i)) != -1){
-                res += st.pop();
+                res.setCharAt(i,st.pop());
             }
-            else{
-                res += s.charAt(i);
-            }
+            
         }
-        return res;
+        return res.toString();
         
     }
 }

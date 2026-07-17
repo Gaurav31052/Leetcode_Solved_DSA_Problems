@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0605-can-place-flowers) |
 | [1903-largest-odd-number-in-string](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0014-longest-common-prefix) |
+| [0605-can-place-flowers](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Trie
 |  |

@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0014-longest-common-prefix) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Trie
 |  |
 | ------- |

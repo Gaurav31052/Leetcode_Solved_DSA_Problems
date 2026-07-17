@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [1021-remove-outermost-parentheses](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->

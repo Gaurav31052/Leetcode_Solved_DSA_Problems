@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0443-string-compression) |
 | [1021-remove-outermost-parentheses](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1768-merge-strings-alternately) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1768-merge-strings-alternately) |
 ## Prefix Sum
 |  |

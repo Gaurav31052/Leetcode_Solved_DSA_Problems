@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -113,4 +115,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->

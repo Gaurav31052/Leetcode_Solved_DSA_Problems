@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0014-longest-common-prefix) |
+| [0200-number-of-islands](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0994-rotting-oranges) |
 | [2352-equal-row-and-column-pairs](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
@@ -124,5 +126,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0994-rotting-oranges) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

@@ -127,13 +127,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0207-course-schedule) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->

@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1732-find-the-highest-altitude) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Trie
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0994-rotting-oranges) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0994-rotting-oranges) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Depth-First Search
 |  |
 | ------- |

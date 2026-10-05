@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0207-course-schedule) |
+| [0841-keys-and-rooms](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Depth-First Search
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0207-course-schedule) |
+| [0841-keys-and-rooms](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0841-keys-and-rooms) |
 ## Union-Find
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0207-course-schedule) |
+| [0841-keys-and-rooms](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0841-keys-and-rooms) |
 ## Topological Sort
 |  |
 | ------- |

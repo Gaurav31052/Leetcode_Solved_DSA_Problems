@@ -234,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->

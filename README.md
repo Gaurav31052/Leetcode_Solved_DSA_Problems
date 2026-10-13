@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1768-merge-strings-alternately) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -240,4 +242,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0328-odd-even-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->

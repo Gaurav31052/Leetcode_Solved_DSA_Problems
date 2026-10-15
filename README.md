@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0133-clone-graph) |
 | [1207-unique-number-of-occurrences](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0207-course-schedule) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0207-course-schedule) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Gaurav31052/Leetcode_Solved_DSA_Problems/tree/master/0547-number-of-provinces) |
